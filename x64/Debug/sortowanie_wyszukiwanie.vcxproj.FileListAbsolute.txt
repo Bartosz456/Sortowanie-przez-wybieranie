@@ -1,0 +1,2 @@
+D:\C++\sortowanie_wyszukiwanie\x64\Debug\sortowanie_wyszukiwanie.exe
+D:\C++\sortowanie_wybieranie\x64\Debug\sortowanie_wyszukiwanie.exe
